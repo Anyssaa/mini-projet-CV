@@ -1,0 +1,93 @@
+header{
+	background: #2F4858;
+}
+
+h2{
+	text-align: center;
+
+}
+h1{
+
+	text-align: center;
+
+}
+
+.blanc {
+	color: white;
+}
+h5{
+	text-align: center;
+	font-style: italic;
+}
+h6{
+	text-align: center;
+	margin-left: 130%; 
+	font-size: 40px;
+	margin-top: 50px;
+	margin-bottom:-10px;
+}
+
+div{
+	display: inline-block;
+
+}
+
+#text{
+	text-align: center;
+	width:85%;
+}
+
+h4{
+	font-weight: bold;
+     color: #3A5768;
+}
+/*définir la colonne de gauche */
+
+#gauche
+{
+	background-color: #86BBD8;
+	width: 20%;
+border-top: solid lightgreen;
+	font-size: 20px;
+}
+/*class contenant les informations a droite de l'ecran (Information ect..)*/
+
+.droite{
+	vertical-align: top;
+    margin-left: 15px;
+
+}
+h3{
+	border-bottom: solid 3px lightgreen;
+}
+
+/*augmenter la taille des contenues de la classe droite*/
+
+.decoration{
+	font-size: 30px;
+}
+		p{
+
+		font-style: oblique;
+		font-size: 18px;
+	}
+
+.ligne{
+	margin-top: -10px;
+	padding-left:  20px;
+}
+
+/*centrer la page web*/
+html{
+	margin-right: auto;
+	margin-left: auto;
+	width: 1000px;
+}
+.police{
+	font-style: normal;
+    font-size: 10px
+
+}
+body{
+	background: #FAF8F8
+}
